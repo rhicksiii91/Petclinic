@@ -35,7 +35,7 @@
 		<!-- Database access -->
 		<tomcat-jdbc.version>7.0.42</tomcat-jdbc.version>
 		<ehcache.version>2.6.6</ehcache.version>
-		<hsqldb.version>2.3.0</hsqldb.version>
+		<hsqldb.version>2.7.1</hsqldb.version>
 
 		<!-- AOP -->
 		<aspectj.version>1.7.3</aspectj.version>
@@ -393,7 +393,7 @@
 				<version>3.0</version>
 				<configuration>
 					<compilerArguments>
-						<Xlint />
+						<Xlint/>
 					</compilerArguments>
 					<verbose>true</verbose>
 					<source>${java.version}</source>
